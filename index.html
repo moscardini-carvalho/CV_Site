@@ -10,12 +10,12 @@
 
     <!-- ESTILIZAÇÃO DA PÁGINA -->
 
-       
+
     </style>
 </head>
 
 <body id="plano-de-fundo" bgcolor="#FFF185" style="color: white; font-family: Verdana;">
-    <table id="menu1" border="0" width="1300" height="500" align="center" cellspacing="4" cellpadding="7"
+    <table id="menu1" border="0" width="1300" height="500" align="center" cellspacing="4" cellpadding="10"
         bgcolor="#FFF185">
         <tr height-"50">
             <td width="580"> <img id="ícone" src="imagens/eu.jpg" width="50" alt="NAME">
@@ -26,12 +26,12 @@
             <td id="inicio" align="center">
                 <a href="file:///C:/Users/1091392413018/Desktop/Primeiro%20Site%20HTML/imagens/index.html"
                     title="Início"><button class="button"
-                        style="width: 150; height: 50;border: 0; background-color:#0592DA; color: white;"><b><big>INÍCIO</big></b></button></a>
+                        style="border: 0; background-color:#0592DA; color: white;"><b><big>INÍCIO</big></b></button></a>
             </td>
 
             <td id="sobre-mim" align="center" width="150"><a href="#aboutus" title="Sobre Mim"><button class="button"
                         style="width: 100;height: 30;background-color: 
-                #0592DA;border: 0;color: white"><b><big>SOBRE MIM</big></b></button></a>
+                #0592DA; border: 0; color: white"><b><big>SOBRE MIM</big></b></button></a>
             </td>
 
             <td id="galeria" align="center" width="150"><a href="#gallery" title="Galeria"><button class="button" style="width: 100;height: 30;background-color: 
@@ -49,8 +49,10 @@
         </td>
         <tr height="200" width="1300" rowspan="8">
             <td width="1300" colspan="9" align="center">
-                <h1 style="align: center"><big><big><big><b>Full-Stack Developer and Designer</b></big></big></big></h1>
-                <p style="align: center; font-size: 22px;"></big></big></big><b>Eu desenvolvo e crio alguns simples
+                <h1 id="titulo" style="align: center"><big><big><big><b>Full-Stack Developer and
+                                    Designer</b></big></big></big></h1>
+                <p id="subtitulo" style="align: center; font-size: 22px;"></big></big></big><b>Eu desenvolvo e crio
+                        alguns simples
                         códigos e faço algumas
                         artes simples</b></big></big></big></p>
 
@@ -60,8 +62,9 @@
 
         <tr>
             <td id="tabela" width="5000%" height="400">
-                <img id="programador-2" src="imagens/programador 2.jpg" align="center" width="250px" height="250px">
-                <img id="programador-3" src="imagens/programador 3.png" align="center" width="250px" height="250px"> 
+                <img id="programador-2" src="Imagens/programador 2.png" align="center" width="250px" height="250px">
+                <img id="programador-3" src="imagens/programador 3.png" align="center" width="250px" height="250px">
+            </td>
         </tr>
 
     </table>
@@ -120,17 +123,16 @@
 
         <table id="desc-sm-2" border="0" width="1300" height="500" align="center" bgcolor="#FFF185">
             <tr>
-                <td rowspan="2" width="500" height="600" align="right" bgcolor="#FFF185"></td>
                 <td width="1300" height="500">
-                    <p style="font-family: verdana; color: white; font-size: 25px">
-                        <big>Olá, meu nome é João Pedro, tenho 19 anos e estou começando na área de T.I do extremo zero
-                            e estou cursando DSM na Fatec. Conforme vou avançando no curso, postarei todos os meus
+                    <p id="biografia" style="font-family: verdana; color: white; font-size: 25px">
+                        <big>Olá, meu nome é João Pedro, tenho 19 anos e <br> estou começando na área de T.I do extremo zero<br>
+                            e estou cursando DSM na Fatec. Conforme vou avançando <br> no curso, postarei todos os meus
                             projetos
-                            aqui a fim de criar um portifólio sólido e com o passar do tempo, atualizar o site em
+                            aqui a fim <br> de criar um portifólio sólido e com o passar do tempo, <br>  atualizar o site em
                             si.</big>
                     </p>
                 </td>
-                <td align="center" width="700" height="500"><img src="imagens/programador.png" width="500" height="500">
+                <td id="programador-da-biografia" align="center"><img src="imagens/programador.png" width="250px" height="250px">
                 </td>
             </tr>
         </table>
@@ -150,13 +152,13 @@
                 </td>
             </tr>
         </table>
-        <table border="0" width="1300" height="100" align="center" bgcolor="#FFF185">
+        <table id="Tabela-final" border="0" width="1300" height="100" align="center" bgcolor="#FFF185" cellspacing="4" cellpadding="10">
             <tr>
                 <td id="contato">
 
                     <h4 id="e-mail" align="center"><b>E-mail:</b></h4>
                     <p align="center">moscardinicarvalho1234@gmail.com</p>
-                    <p align="center">Whatasapp:</p>
+                    <h4 align="center">Whatasapp:</h4>
                     <p align="center">(016) 98100-0548</p>
                     <p align="center" width="50">
                 </td>
@@ -171,7 +173,7 @@
                     <a href="https://www.youtube.com" title="Youtube"><img src="imagens/youtube.png" width="40"
                             height="40"></a>
                     </p>
-                    <p id="fatec" align="center" style="color: white;">© 2024 FATEC</p>
+                    <p id="contato" align="center" style="color: white;">© 2024 FATEC</p>
                 </td>
             </tr>
         </table>

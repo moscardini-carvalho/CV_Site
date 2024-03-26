@@ -1,0 +1,185 @@
+#plano-de-fundo {
+    background-image: url(Imagens/plano\ de\ fundo.jpg);
+}
+
+#ícone {
+    border: 5px solid black;
+    border-radius: 50px;
+    width: 75px;
+    height: 75px;
+}
+
+#menu1 {
+    border: 5px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#inicio {
+    border: 5px solid black;
+    background-color: #0592DA;
+    color: white;
+
+}
+
+#sobre-mim {
+    border: 5px solid black;
+    background-color: #0592DA;
+    color: white;
+}
+
+#galeria {
+    border: 5px solid black;
+    background-color: #0592DA;
+    color: white;
+}
+
+#meios-de-contato {
+    border: 5px solid black;
+    background-color: #0592DA;
+    color: white;
+}
+
+#titulo {
+    color: white;
+    text-shadow:
+        -2px -2px 0px black,
+        -2px 2px 0px black,
+        2px -2px 0px black,
+        2px 2px 0px black;
+}
+
+#subtitulo {
+    text-shadow:
+        -2px -2px 0px black,
+        -2px 2px 0px black,
+        2px -2px 0px black,
+        2px 2px 0px black;
+}
+
+#programador-2 {
+    height: 300px;
+    width: 300px;
+    position: center;
+    margin-left: 90px;
+    border: 5px solid black;
+    background-color: #0592DA;
+}
+
+#programador-3 {
+    height: 300px;
+    width: 300px;
+    position: center;
+    margin-left: 90px;
+    border: 5px solid black;
+    background-color: #0592DA;
+
+}
+
+#ret-galeria {
+    border: 5px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: white;
+    text-shadow:
+        -2px -2px 0px black,
+        -2px 2px 0px black,
+        2px -2px 0px black,
+        2px 2px 0px black;
+    word-spacing: 2px;
+}
+
+#galeria2 {
+    border: 5px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#bola-1 {
+    border: 5px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#bola-2 {
+    border: 5px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#bola-3 {
+    border: 5px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#sobre-mim-2 {
+    border: 5px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-shadow:
+        -2px -2px 0px black,
+        -2px 2px 0px black,
+        2px -2px 0px black,
+        2px 2px 0px black;
+    word-spacing: 2px;
+}
+
+#desc-sm-2 {
+    border: 5px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-shadow:
+        -2px -2px 0px black,
+        -2px 2px 0px black,
+        2px -2px 0px black,
+        2px 2px 0px black;
+}
+
+#biografia {
+    margin-left: 10px;
+}
+
+#programador-da-biografia {
+    border: 5px solid black;
+    text-shadow:
+        -2px -2px 0px black,
+        -2px 2px 0px black,
+        2px -2px 0px black,
+        2px 2px 0px black;
+    background-color: #0592DA;
+}
+
+#retan-contato {
+    border: 5px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-shadow:
+        -2px -2px 0px black,
+        -2px 2px 0px black,
+        2px -2px 0px black,
+        2px 2px 0px black;
+    font-size: 15px;
+}
+
+#contato {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-shadow:
+        -2px -2px 0px black,
+        -2px 2px 0px black,
+        2px -2px 0px black,
+        2px 2px 0px black;
+    font-size: 20px;
+}
+
+#Tabela-final {
+    border: 5px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-shadow:
+        -2px -2px 0px black,
+        -2px 2px 0px black,
+        2px -2px 0px black,
+        2px 2px 0px black;
+}
