@@ -183,3 +183,30 @@
         2px -2px 0px black,
         2px 2px 0px black;
 }
+
+#lazer {
+    border: 5px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-shadow:
+        -2px -2px 0px black,
+        -2px 2px 0px black,
+        2px -2px 0px black,
+        2px 2px 0px black;
+
+}
+
+#desc-lazer {
+    border: 5px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-shadow:
+        -2px -2px 0px black,
+        -2px 2px 0px black,
+        2px -2px 0px black,
+        2px 2px 0px black;
+}
+
+#text {
+    text-align: justify;
+} 
