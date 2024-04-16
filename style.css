@@ -208,5 +208,15 @@
 }
 
 #text {
-    text-align: justify;
-} 
+    text-align: left;
+}
+
+#foto {
+    border: 5px solid black;
+    text-shadow:
+        -2px -2px 0px black,
+        -2px 2px 0px black,
+        2px -2px 0px black,
+        2px 2px 0px black;
+    background-color: #0592DA;
+}
