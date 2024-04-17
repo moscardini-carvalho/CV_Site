@@ -24,8 +24,8 @@ Este projeto foi feito com:
 
   ## 🖥 Visual do site
 
- 1° Imagem ![Head do site](https://github.com/moscardini-carvalho/CV_Site/blob/main/Head%20do%20site.png)
+ 1° Imagem ![Head do site](https://github.com/moscardini-carvalho/CV_Site/blob/main/Imagens/Body%201%20do%20site.png)
 
- 2° Imagem ![Body do site](https://github.com/moscardini-carvalho/CV_Site/blob/main/Body%202%20do%20site.png)
+ 2° Imagem ![Body do site](https://github.com/moscardini-carvalho/CV_Site/blob/main/Imagens/Body%202%20do%20site.png)
 
- 3° Imagem ![Final do site](https://github.com/moscardini-carvalho/CV_Site/blob/main/Final%20do%20site.png)
+ 3° Imagem ![Final do site](https://github.com/moscardini-carvalho/CV_Site/blob/main/Imagens/Final%20do%20site.png)
