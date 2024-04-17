@@ -4,7 +4,7 @@ Este é meu sitecurrículo onde mostra todas as minhas competências
 
 ## 🚀 Começando
 
-Aqui é link para acesso da página: [https://crimson-dianne-76.tiiny.site/](https://cv-site-theta.vercel.app/)
+Aqui é link para acesso da página: [https://cv-site-theta.vercel.app/]
 
 ### 🔧 Instalação
 
