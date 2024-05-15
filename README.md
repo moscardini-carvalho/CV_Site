@@ -1,6 +1,6 @@
 # CV Site
 
-Este é meu sitecurrículo onde mostra todas as minhas competências
+Este é meu site currículo onde mostra todas as minhas competências
 
 ## 🚀 Começando
 
